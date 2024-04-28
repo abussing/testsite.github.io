@@ -1,2 +1,2 @@
-![Alt text](https://ai.github.io/size-limit/logo.svg)
+![Alt text](/scdeco_logo.svg)
 
