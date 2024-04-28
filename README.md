@@ -1,2 +1,3 @@
-<img src="/scdeco_logo_small.png" align="center"
-     alt="Size Limit logo by Anton Lovchikov" width="150" height="50">
+<p align="center">
+  <img src="./scdeco_logo_small.png" alt="Size Limit CLI" width="738">
+</p>
